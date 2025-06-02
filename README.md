@@ -1,121 +1,95 @@
 # Projects
 
-Welcome to my projects repository! This is where I showcase my work and experiments in software development.
+Welcome to my projects repository! Here you'll find a breif summary of my projects.
 
 ## 🚀 Featured Projects
 
 ### Personal Assistant API
 
-**Description:** A sophisticated personal assistant built using Python and FastAPI, integrating retrieval-augmented generation (RAG) with Pinecone for efficient knowledge retrieval. The project features a Model Context Protocol (MCP) architecture and an Evaluator-Optimizer workflow, deployed on AWS Fargate using Docker for scalability and performance.
-**Technologies:** Python, FastAPI, Langchain, Pinecone, AWS, Docker, Git
-**Key Features:**
+A scalable AI assistant API with retrieval-augmented generation and advanced workflow orchestration.
 
-- Retrieval-augmented generation (RAG) for efficient knowledge retrieval
-- Model Context Protocol (MCP) architecture
-- Evaluator-Optimizer workflow
-- Scalable deployment on AWS Fargate
-- Docker containerization
-- Real-time API performance optimization
+- **Tech:** Python, FastAPI, Langchain, Pinecone, AWS, Docker, Git
+- **Key Features:** RAG, Model Context Protocol, Evaluator-Optimizer workflow, AWS Fargate deployment
 
 ### Deep Research Agent
 
-**Description:** A research agent developed using LangGraph and LangChain frameworks that integrates multiple tools for comprehensive information gathering. The agent implements a ReAct (Reasoning, Action, Observation) pattern architecture for step-by-step decision-making and tool selection.
-**Technologies:** Python, Langgraph, Langchain, Git
-**Demo:** [HuggingFace Space](https://huggingface.co/spaces/Lasdw6/deep-research-agent)
-**Repository:** [GitHub](https://github.com/Lasdw6/deep-research-agent)
-**Key Features:**
+A research agent that uses tool integration and the ReAct pattern for step-by-step information gathering.
 
-- Integration with multiple tools (Tavily Search, Audio processing, Python code execution)
-- ReAct pattern architecture for decision-making
-- Submitted to GAIA (General AI Assistant) benchmark leaderboard
-- Comprehensive information gathering capabilities
-- Step-by-step reasoning and tool selection
+- **Tech:** Python, Langgraph, Langchain, Git
+- **Key Features:** Multi-tool integration, ReAct architecture, GAIA benchmark submission
+- [Repository](https://github.com/Lasdw6/Deep_Research_Agent)
+- 🚀 [Demo on HuggingFace](https://huggingface.co/spaces/Lasdw/Deep_Research_Agent)
 
 ### Job Application Tracker
 
-**Description:** A comprehensive web application to help job seekers track and manage their job applications, interviews, and follow-ups. Features include application status tracking, interview scheduling, and analytics.
-**Technologies:** React, TypeScript, Django, MongoDB, OAuth2, Tailwind CSS
-**Live Demo:** [https://job-tracker.vividh.lol](https://job-tracker.vividh.lol)
-**Key Features:**
+A web app to track and manage job applications with analytics and OAuth2 authentication.
 
-- Track application status and progress
-- Schedule and manage interviews
-- Set reminders for follow-ups
-- Analytics dashboard for application insights
-- Export application data
-- Responsive design for mobile and desktop
-- Secure authentication with OAuth2
-- Real-time updates and notifications
+- **Tech:** React, TypeScript, Django, MongoDB, OAuth2, Tailwind CSS
+- **Key Features:** Status tracking, interview scheduling, analytics, Google OAuth2, LLM email parsing
+- 🚀 Deployed at [job-tracker.vividh.lol](https://job-tracker.vividh.lol)
 
 ## 📁 All Projects
 
-### Web Applications
+- **Personal Website**
 
-- **[Personal Website]**
-
-  - A modern portfolio website
+  - Modern portfolio website
   - [Repository](https://github.com/Lasdw6/Website)
   - 🚀 Deployed at [vividh.lol](https://www.vividh.lol)
-  - Technologies: React, TypeScript, Tailwind CSS, Vite
+  - Tech: React, TypeScript, Tailwind CSS, Vite
 
-- **[Job Application Tracker]**
+- **Job Application Tracker**
+
   - Track and manage job applications
   - 🚀 Deployed at [job-tracker.vividh.lol](https://job-tracker.vividh.lol)
-  - Technologies: React, TypeScript, Django, MongoDB, OAuth2, Tailwind CSS
+  - Tech: React, TypeScript, Django, MongoDB, OAuth2, Tailwind CSS
 
-### APIs & Backend Services
+- **Personal Assistant API**
 
-- **[Personal Assistant API]**
-
-  - AI-powered personal assistant with RAG and MCP architecture
+  - AI assistant API with RAG and workflow orchestration
   - 🚀 Deployed on AWS Fargate
-  - Technologies: Python, FastAPI, Langchain, Pinecone, AWS, Docker, Git
-  - Features: RAG, MCP Architecture, Evaluator-Optimizer Workflow
+  - Tech: Python, FastAPI, Langchain, Pinecone, AWS, Docker, Git
 
-- **[Deep Research Agent]**
-  - Research agent with ReAct pattern architecture
+- **Deep Research Agent**
+
+  - Research agent with ReAct pattern and tool integration
   - [Repository](https://github.com/Lasdw6/Deep_Research_Agent)
-  - 🚀 Demo on [HuggingFace](https://huggingface.co/spaces/Lasdw/Deep_Research_Agent)
-  - Technologies: Python, Langgraph, Langchain, Git
-  - Features: Multi-tool Integration, GAIA Benchmark Submission
+  - 🚀 [Demo on HuggingFace](https://huggingface.co/spaces/Lasdw/Deep_Research_Agent)
+  - Tech: Python, Langgraph, Langchain, Git
 
 ## 🛠️ Technologies & Tools
 
 ### Languages
 
-- **Programming:** Python, C++, TypeScript, SQL
-- **Web Development:** React, HTML, CSS
-- **Version Control:** Git
+- Python, C++, TypeScript, SQL
+- React, HTML, CSS
+- Git
 
 ### Cloud & Infrastructure
 
-- **Cloud Platforms:** AWS, Google Cloud
-- **Containerization:** Docker
+- AWS, Google Cloud
+- Docker
 - **Vector Database:** Pinecone, Supabase
-- **Operating Systems:** Linux CLI
+- Linux CLI
 
 ### AI & Machine Learning
 
-- **Deep Learning:** PyTorch
-- **LLM Frameworks:** Langchain, Huggingface
-- **AI Services:** OpenAI
-- **Data Science:** Scikit-learn, Pandas, NumPy
+- PyTorch, Langchain, Huggingface, OpenAI
+- Scikit-learn, Pandas, NumPy
 
 ### Development Tools
 
-- **APIs:** REST APIs
-- **Version Control:** GitHub
-- **Cloud Services:** AWS, Google Cloud Platform
+- REST APIs
+- GitHub
+- AWS, Google Cloud Platform
 
 ## 📫 Contact
 
-Feel free to reach out to me:
+Feel free to reach out:
 
-- [GitHub](https://github.com/Lasdw6)
 - [LinkedIn](https://linkedin.com/in/vividhm)
 - Email: v7mahaja@uwaterloo.ca
 - Phone: +1(548)-922-2600
 
 ## 📝 License
 
-This repository is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+This repository is licensed under the [MIT License](LICENSE).
