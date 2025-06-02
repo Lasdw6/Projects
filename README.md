@@ -1,61 +1,62 @@
 # Projects
 
-Welcome to my projects repository! Here you'll find a breif summary of my projects.
+Welcome to my projects repository! Here you'll find a brief summary of my projects.
 
 ## 🚀 Featured Projects
 
-### Personal Assistant API
+### 🤖 Personal Assistant API
 
 A scalable AI assistant API with retrieval-augmented generation and advanced workflow orchestration.
 
 - **Tech:** Python, FastAPI, Langchain, Pinecone, AWS, Docker, Git
 - **Key Features:** RAG, Model Context Protocol, Evaluator-Optimizer workflow, AWS Fargate deployment
 
-### Deep Research Agent
+### 🔍 Deep Research Agent
 
 A research agent that uses tool integration and the ReAct pattern for step-by-step information gathering.
 
 - **Tech:** Python, Langgraph, Langchain, Git
 - **Key Features:** Multi-tool integration, ReAct architecture, GAIA benchmark submission
 - [Repository](https://github.com/Lasdw6/Deep_Research_Agent)
-- 🚀 [Demo on HuggingFace](https://huggingface.co/spaces/Lasdw/Deep_Research_Agent)
+- [Demo on HuggingFace](https://huggingface.co/spaces/Lasdw/Deep_Research_Agent)
 
-### Job Application Tracker
+### 💼 Job Application Tracker
 
 A web app to track and manage job applications with analytics and OAuth2 authentication.
 
 - **Tech:** React, TypeScript, Django, MongoDB, OAuth2, Tailwind CSS
 - **Key Features:** Status tracking, interview scheduling, analytics, Google OAuth2, LLM email parsing
-- 🚀 Deployed at [job-tracker.vividh.lol](https://job-tracker.vividh.lol)
+- Deployed at [job-tracker.vividh.lol](https://job-tracker.vividh.lol)
 
 ## 📁 All Projects
 
-- **Personal Website**
+
+
+- **🤖 Personal Assistant API**
+
+  - AI assistant API with RAG and workflow orchestration
+  - Deployed on AWS Fargate
+  - Tech: Python, FastAPI, Langchain, Pinecone, AWS, Docker, Git
+
+- **🔍 Deep Research Agent**
+  - Research agent with ReAct pattern and tool integration
+  - [Repository](https://github.com/Lasdw6/Deep_Research_Agent)
+  - [Demo on HuggingFace](https://huggingface.co/spaces/Lasdw/Deep_Research_Agent)
+  - Tech: Python, Langgraph, Langchain, Git
+
+- **🌐 Personal Website**
 
   - Modern portfolio website
   - [Repository](https://github.com/Lasdw6/Website)
-  - 🚀 Deployed at [vividh.lol](https://www.vividh.lol)
+  - Deployed at [vividh.lol](https://www.vividh.lol)
   - Tech: React, TypeScript, Tailwind CSS, Vite
 
-- **Job Application Tracker**
+- **📊 Job Application Tracker**
 
   - Track and manage job applications
-  - 🚀 Deployed at [job-tracker.vividh.lol](https://job-tracker.vividh.lol)
+  - Deployed at [job-tracker.vividh.lol](https://job-tracker.vividh.lol)
   - Tech: React, TypeScript, Django, MongoDB, OAuth2, Tailwind CSS
-
-- **Personal Assistant API**
-
-  - AI assistant API with RAG and workflow orchestration
-  - 🚀 Deployed on AWS Fargate
-  - Tech: Python, FastAPI, Langchain, Pinecone, AWS, Docker, Git
-
-- **Deep Research Agent**
-
-  - Research agent with ReAct pattern and tool integration
-  - [Repository](https://github.com/Lasdw6/Deep_Research_Agent)
-  - 🚀 [Demo on HuggingFace](https://huggingface.co/spaces/Lasdw/Deep_Research_Agent)
-  - Tech: Python, Langgraph, Langchain, Git
-
+  
 ## 🛠️ Technologies & Tools
 
 ### Languages
@@ -88,7 +89,6 @@ Feel free to reach out:
 
 - [LinkedIn](https://linkedin.com/in/vividhm)
 - Email: v7mahaja@uwaterloo.ca
-- Phone: +1(548)-922-2600
 
 ## 📝 License
 
