@@ -30,8 +30,6 @@ A web app to track and manage job applications with analytics and OAuth2 authent
 
 ## 📁 All Projects
 
-
-
 - **🤖 Personal Assistant API**
 
   - AI assistant API with RAG and workflow orchestration
@@ -39,10 +37,18 @@ A web app to track and manage job applications with analytics and OAuth2 authent
   - Tech: Python, FastAPI, Langchain, Pinecone, AWS, Docker, Git
 
 - **🔍 Deep Research Agent**
+
   - Research agent with ReAct pattern and tool integration
   - [Repository](https://github.com/Lasdw6/Deep_Research_Agent)
   - [Demo on HuggingFace](https://huggingface.co/spaces/Lasdw/Deep_Research_Agent)
   - Tech: Python, Langgraph, Langchain, Git
+
+  - **♟ Chess Game Executable**
+  - Chess game with computer-controlled opponents using C++ (June 2024 - Aug 2024).
+  - [Repository](https://github.com/Lasdw6/chess.exe/)
+  - Tech: C++, std::vector, OOP
+
+
 
 - **🌐 Personal Website**
 
@@ -56,7 +62,7 @@ A web app to track and manage job applications with analytics and OAuth2 authent
   - Track and manage job applications
   - Deployed at [job-tracker.vividh.lol](https://job-tracker.vividh.lol)
   - Tech: React, TypeScript, Django, MongoDB, OAuth2, Tailwind CSS
-  
+
 ## 🛠️ Technologies & Tools
 
 ### Languages
