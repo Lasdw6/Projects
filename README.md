@@ -6,7 +6,7 @@ Welcome to my projects repository! Here you'll find a brief summary of my projec
 
 ### 🤖 Personal Assistant API
 
-A scalable AI assistant API with retrieval-augmented generation and advanced workflow orchestration.
+An AI assistant API with retrieval-augmented generation and evaluator-optimizer workflow.
 
 - **Tech:** Python, FastAPI, Langchain, Pinecone, AWS, Docker, Git
 - **Key Features:** RAG, Model Context Protocol, Evaluator-Optimizer workflow, AWS Fargate deployment
@@ -32,9 +32,16 @@ A web app to track and manage job applications with analytics and OAuth2 authent
 
 - **🤖 Personal Assistant API**
 
-  - AI assistant API with RAG and workflow orchestration
-  - Deployed on AWS Fargate
+  - AI assistant API with RAG and workflow orchestration, paired with a mobile interface app 
+  - Deployed on AWS Lightsail
   - Tech: Python, FastAPI, Langchain, Pinecone, AWS, Docker, Git
+
+- **🍵 Tea Tree Chat**
+
+  - An open-source AI chat app that works on a BYOK basis
+  - [Repository](https://github.com/Lasdw6/TeaTreChat)
+  - Deployed at [askteatree.chat](https://askteatree.chat/chat)
+  - Tech: Python, Next.js, TypeScript, Git
 
 - **🔍 Deep Research Agent**
 
@@ -48,8 +55,6 @@ A web app to track and manage job applications with analytics and OAuth2 authent
   - [Repository](https://github.com/Lasdw6/chess.exe/)
   - Tech: C++, std::vector, OOP
 
-
-
 - **🌐 Personal Website**
 
   - Modern portfolio website
@@ -61,7 +66,7 @@ A web app to track and manage job applications with analytics and OAuth2 authent
 
   - Track and manage job applications
   - Deployed at [job-tracker.vividh.lol](https://job-tracker.vividh.lol)
-  - Tech: React, TypeScript, Django, MongoDB, OAuth2, Tailwind CSS
+  - Tech: Django, React, TypeScript, MongoDB, OAuth2, Tailwind CSS
 
 ## 🛠️ Technologies & Tools
 
